@@ -1,0 +1,11 @@
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll

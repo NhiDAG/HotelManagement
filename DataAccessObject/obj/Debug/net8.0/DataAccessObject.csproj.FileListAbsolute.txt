@@ -1,0 +1,15 @@
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\bin\Debug\net8.0\DataAccessObject.deps.json
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\bin\Debug\net8.0\DataAccessObject.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\bin\Debug\net8.0\DataAccessObject.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.AssemblyReference.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.AssemblyInfoInputs.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.AssemblyInfo.cs
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.CoreCompileInputs.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAcce.FCD2CC32.Up2Date
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\refint\DataAccessObject.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\ref\DataAccessObject.dll

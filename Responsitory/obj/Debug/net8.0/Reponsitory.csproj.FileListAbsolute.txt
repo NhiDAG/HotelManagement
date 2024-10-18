@@ -1,0 +1,17 @@
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\Reponsitory.deps.json
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\Reponsitory.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\Reponsitory.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\DataAccessObject.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\DataAccessObject.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\bin\Debug\net8.0\BussinessObjects.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.csproj.AssemblyReference.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.AssemblyInfoInputs.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.AssemblyInfo.cs
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.csproj.CoreCompileInputs.cache
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsit.FEA60A32.Up2Date
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\refint\Reponsitory.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\Reponsitory.pdb
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Responsitory\obj\Debug\net8.0\ref\Reponsitory.dll
