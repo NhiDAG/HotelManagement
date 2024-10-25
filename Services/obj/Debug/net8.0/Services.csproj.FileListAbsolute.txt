@@ -17,3 +17,4 @@ D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Services\obj\Debug\net8.0\Servi
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Services\obj\Debug\net8.0\refint\Services.dll
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Services\obj\Debug\net8.0\Services.pdb
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Services\obj\Debug\net8.0\ref\Services.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\Services\obj\Debug\net8.0\Services.sourcelink.json

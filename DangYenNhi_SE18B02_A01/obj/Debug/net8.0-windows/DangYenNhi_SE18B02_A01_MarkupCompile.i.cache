@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\App.xaml
-7-905009359
+81395868584
 
-12-227825961
+132071333512
 210503568257
-BookingRoom.xaml;LoginWindow.xaml;MainWindow.xaml;ManageBooking.xaml;ManageCustomer.xaml;ManageRoom.xaml;ViewProfile.xaml;
+AdminMain.xaml;BookingRoom.xaml;LoginWindow.xaml;MainWindow.xaml;ManageBooking.xaml;ManageCustomer.xaml;ManageRoom.xaml;ViewProfile.xaml;
 
-True
+False
 

@@ -15,7 +15,7 @@ namespace DataAccessObject
                 Customer cus2 = new Customer(5, "Elizabeth Taylor", "0903939377", "ElizabethTaylor@FUMiniHotel.org", Convert.ToDateTime("03/03/1990"), 1, "144@");
                 Customer cus3 = new Customer(8, "James Cameron", "0903946582", "JamesCameron@FUMiniHotel.org", Convert.ToDateTime("10/10/1992"), 1, "443@");
                 Customer cus4 = new Customer(9, "Charles Dickens", "0903955633", "CharlesDickens@FUMiniHotel.org", Convert.ToDateTime("05/12/1991"), 1, "563@");
-                Customer cus5 = new Customer(10, "George Orwell", "0913933493", "GeorgeOrwell@FUMiniHotel.org", Convert.ToDateTime("24/12/1993"), 1, "177@");
+                Customer cus5 = new Customer(10, "George Orwell", "0913933493", "GeorgeOrwell@FUMiniHotel.org", Convert.ToDateTime("05/12/1993"), 1, "177@");
                 Customer cus6 = new Customer(11, "Victoria Beckham", "0983246773", "VictoriaBeckham@FUMiniHotel.org", Convert.ToDateTime("09/09/1990"), 1, "654@");
                 customers = new ObservableCollection<Customer> { cus1, cus2, cus3, cus4, cus4, cus5, cus6 };
             }

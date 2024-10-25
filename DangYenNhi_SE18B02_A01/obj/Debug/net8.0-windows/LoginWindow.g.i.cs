@@ -85,7 +85,7 @@ namespace DangYenNhi_SE18B02_A01 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DangYenNhi_SE18B02_A01;component/loginwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DangYenNhi_SE18B02_A01;V1.0.0.0;component/loginwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LoginWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

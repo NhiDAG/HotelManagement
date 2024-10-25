@@ -13,3 +13,4 @@ D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\refint\DataAccessObject.dll
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.pdb
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\ref\DataAccessObject.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DataAccessObject\obj\Debug\net8.0\DataAccessObject.sourcelink.json

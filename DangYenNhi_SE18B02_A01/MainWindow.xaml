@@ -5,8 +5,40 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DangYenNhi_SE18B02_A01"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True">
     <Grid>
 
+        <Border CornerRadius="10"
+BorderThickness="2"
+Opacity="0.95">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#0099FF" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0.75"/>
+                    <GradientStop Color="#FF60B1E7" Offset="1"/>
+                    <GradientStop Color="#FF596FDD" Offset="0.309"/>
+                    <GradientStop Color="#FF8C57CA" Offset="0.484"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#060531" Offset="0"/>
+                    <GradientStop Color="#FF472FDE" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="82" VerticalAlignment="Top" Width="632">
+                    <TextBlock Text="CUSTOMER MENU" Foreground="White" FontSize="28" FontWeight="Medium"
+                         FontFamily="Montserrat" Cursor="Hand" Margin="180,30,0,0" Width="377"/>
+                </StackPanel>
+                <Button Content="View Profile" Height="30" Name="btnToProfile" Click="btnToStackPanel_Click"  Margin="348,317,348,99"/>
+                   <Button Content="View Rooms" Height="30" Name="btnToRoom" Click="btnToStackPanel_Click"  Margin="348,241,348,175"/>
+                <Button Content="View Booking" Height="30" Name="btnToBooking" Click="btnToStackPanel_Click"  Margin="348,167,348,249"/>
+            </Grid>
+        </Border>
     </Grid>
 </Window>

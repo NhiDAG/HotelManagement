@@ -48,3 +48,5 @@ D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\obj\Debu
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\obj\Debug\net8.0-windows\DangYenNhi_SE18B02_A01.pdb
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\obj\Debug\net8.0-windows\DangYenNhi_SE18B02_A01.genruntimeconfig.cache
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\obj\Debug\net8.0-windows\ref\DangYenNhi_SE18B02_A01.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\bin\Debug\net8.0-windows\appsettings.json
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\DangYenNhi_SE18B02_A01\obj\Debug\net8.0-windows\DangYenNhi_SE18B02_A01.sourcelink.json

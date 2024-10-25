@@ -9,3 +9,4 @@ D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
 D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\DangYenNhi_SE18B02_A01\BussinessObjects\obj\Debug\net8.0\BussinessObjects.sourcelink.json

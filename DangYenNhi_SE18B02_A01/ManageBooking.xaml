@@ -5,8 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DangYenNhi_SE18B02_A01"
         mc:Ignorable="d"
-        Title="ManageBooking" Height="450" Width="800">
+        Title="ManageBooking" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+WindowStyle="None"
+Background="Transparent"
+AllowsTransparency="True">
     <Grid>
-        
+        <Border CornerRadius="10"
+BorderThickness="2"
+Opacity="0.95">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#0099FF" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0.75"/>
+                    <GradientStop Color="#FF60B1E7" Offset="1"/>
+                    <GradientStop Color="#FF596FDD" Offset="0.309"/>
+                    <GradientStop Color="#FF8C57CA" Offset="0.484"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#060531" Offset="0"/>
+                    <GradientStop Color="#FF472FDE" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+
+            </Grid>
+        </Border>
     </Grid>
 </Window>
